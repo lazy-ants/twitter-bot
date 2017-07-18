@@ -26,4 +26,4 @@ Simply send post request on http://localhost:3000/tweets/favorites/create with t
 
 `result_type: recent` returns only recent tweets
 
-`lang: en` — returns only English tweets
+`lang: en` returns only English tweets
